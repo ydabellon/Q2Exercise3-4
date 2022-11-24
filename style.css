@@ -1,0 +1,52 @@
+#div1 {
+	border-style: dashed;
+	border-color: #A5C2D5 ;
+	margin: 15%;
+	padding: 12px;
+}
+#product {
+	font-family: 'Mukta', sans-serif;
+	font-family: 15pt;
+	text-align: left ;
+	margin-left: 20px ;
+	margin-right:20px  ;
+}
+#price {
+	margin-top: 25px ;
+	margin-bottom: 25 px;
+	font-family: 'Rubik', sans-serif;
+	font-size: 60pt;
+	text-align: center;
+}
+body{
+	background-color: #78ADDA;
+}
+img{
+	height: 50%;
+	width: 50%;
+	margin-left: 200px;
+	margin-right: 100 px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+}
+h4{
+	font-family: 'ABeeZee', sans-serif;
+	font-size: 30pt;
+	text-align: center;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+button {
+	border: none;
+	border-radius: 6px;
+	outline: 0;
+	display: inline-block;
+	padding: 12px;
+	color: skyblue;
+	background-color:#567BB2 ;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+	font-size: 20px;
+}
